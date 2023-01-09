@@ -29,7 +29,8 @@ _py-kms_ is a port of node-kms created by [cyrozap](http://forums.mydigitallife.
 	- Microsoft Office 2013 ( Volume License )
 	- Microsoft Office 2016 ( Volume License )
 	- Microsoft Office 2019 ( Volume License )
-  - It's written in Python (tested with Python 3.6.9).
+	- Microsoft Office LTSC 2021 ( Volume License )
+  - It's written in Python (tested with Python 3.9).
   - Supports execution by `Docker`, `systemd`, `Upstart` and many more...
   - Includes a GUI for simple managing.
   - Uses `sqlite` for persistent data storage.
